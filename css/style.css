@@ -1,0 +1,73 @@
+/* nav */
+nav{
+    background-color: #343a40fa;
+}
+
+
+/* home */
+.home{
+    background-color: #2787B7;
+}
+
+.home h1{
+    font-family: 'Viga', sans-serif;
+}
+
+.home .container{
+    padding-top: 165px;
+}
+
+
+
+/* abot */
+.about{
+    padding-top:50px;
+
+}
+
+.about h1{
+    margin-bottom: 40px;
+    font-family: 'Viga', sans-serif;
+}
+
+.about p{
+    margin-top: 10px;
+}
+
+.about img{
+    padding-top: 50px;
+}
+
+
+/*portfolio*/
+.portfolio{
+    padding-top:50px;
+}
+
+.portfolio h1{
+    margin-bottom: 40px;
+    font-family: 'Viga', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* copyright */
+.copyright{
+    margin-top: 40px;
+    height: 50px;
+    color: white;
+    background-color: rgb(14, 15, 15);
+}
+
+.copyright p{
+    padding-top: 10px;
+}
